@@ -1,0 +1,15 @@
+C:\Users\mrche\source\repos\Test2\Test2\Test2\bin\Debug\netstandard2.0\Test2.deps.json
+C:\Users\mrche\source\repos\Test2\Test2\Test2\bin\Debug\netstandard2.0\Test2.dll
+C:\Users\mrche\source\repos\Test2\Test2\Test2\bin\Debug\netstandard2.0\ref\Test2.dll
+C:\Users\mrche\source\repos\Test2\Test2\Test2\bin\Debug\netstandard2.0\Test2.pdb
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\Test2.csprojAssemblyReference.cache
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\Test2.AssemblyInfoInputs.cache
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\Test2.AssemblyInfo.cs
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\Test2.dll
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\ref\Test2.dll
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\Test2.pdb
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\mrche\source\repos\Test2\Test2\Test2\obj\Debug\netstandard2.0\XamlC.stamp
